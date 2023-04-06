@@ -1,0 +1,6 @@
+.container {
+    background: var(--gray-500);
+    border-radius: 8px;
+    
+    height: 4.5rem;
+}
